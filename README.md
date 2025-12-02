@@ -9,7 +9,7 @@ Select the desired properties of the Plant and the Controller in the file ´crea
 ## Excecution
 
 ### For Linux users
-The project contains a Bash skript for excecution in Linux. Execute the file `run_plotter.sh` developed in Linux Manjaro.
+The project contains a Bash skript for excecution in Linux. Execute the file ´run_plotter.sh´ developed in Linux Manjaro.
 
 ```bash
 chmod +x run_plotter.sh # Give execution permissions
