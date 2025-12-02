@@ -4,6 +4,7 @@ The controller is implemented in C++ and its corresponding testing and visualiza
 
 ## Configuration
 Select the desired properties of the Plant and the Controller in the file `createPID.cpp`
+
 ![configuration](./Images/Configuration.png)
 
 ## Excecution
