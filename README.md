@@ -1,13 +1,14 @@
+## PID Controller on C++
 This project contains an implementation of a PID controller
 
 The controller is implemented in C++ and its corresponding testing and visualization is developed in Octave
 
 ## Configuration
-Select the desired properties of the Plant and the Controller in the file `createPID.cpp`
+Select the desired properties of the Plant and the Controller in the file `createPID.cpp` and run it to generate the system response
 
 ![configuration](./Images/Configuration.png)
 
-## Excecution
+## Execution
 
 ### For Linux users
 The project contains a Bash skript for excecution in Linux. Execute the file `run_plotter.sh` developed in Linux Manjaro.
